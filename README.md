@@ -1,5 +1,6 @@
 # Personal Portfolio Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6810bbda-7090-47a5-93fa-69f29536b743/deploy-status)](https://app.netlify.com/projects/monkeyportifolio/deploys)
 ## Overview
 
 A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript to showcase skills, experience, and projects. This portfolio serves as a professional online presence to highlight accomplishments and abilities to potential employers or clients.
